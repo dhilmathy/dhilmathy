@@ -1,7 +1,12 @@
-[![dhilmathy's github stats](https://github-readme-stats.vercel.app/api?username=dhilmathy)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhilmathy)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋
+
+<img src="https://github-readme-stats.vercel.app/api?username=dhilmathy&&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97">
+<!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhilmathy&&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97">
+-->
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/dhilmathy?label=Follow)](https://twitter.com/dhilmathy)
+[![Linkedin: dhilmathy](https://img.shields.io/badge/-Mathivanan%20Palanisamy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhilmathy/)](https://www.linkedin.com/in/dhilmathy/)
 
 <!--
 **dhilmathy/dhilmathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
